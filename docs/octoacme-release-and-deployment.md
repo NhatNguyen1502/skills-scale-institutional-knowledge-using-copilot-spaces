@@ -18,7 +18,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Data migration validated by Data Steward (if applicable)
 - Change management and user communications ready (Change Manager)
 - Stakeholders notified of release timing (Stakeholder Engagement Lead)
-- Project Sponsor approval for major releases
+- Project Sponsor approval for major releases (breaking changes, new feature releases, security updates, or releases affecting multiple systems)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)

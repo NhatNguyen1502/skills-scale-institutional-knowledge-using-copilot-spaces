@@ -23,7 +23,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 - Quality Assurance Lead reviews test coverage and approves release readiness
-- Data Steward validates data quality and compliance for data-related changes
+- Data Steward validates data quality and compliance for data-related changes (schema modifications, data migrations, new data sources, changes to data processing logic)
 
 ## Reporting & Metrics
 - Track velocity and burndown

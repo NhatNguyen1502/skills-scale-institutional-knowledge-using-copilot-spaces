@@ -204,7 +204,7 @@ Data Stewards ensure data quality, governance, and compliance throughout the pro
 - Coordinate data migration and integration activities
 - Ensure compliance with data privacy regulations (GDPR, CCPA, etc.)
 - Document data lineage and data dictionary
-- Monitor data quality metrics and address data issues
+- Monitor data quality metrics and address data issues (validation failures, completeness, accuracy, consistency violations)
 
 ### Goals
 - Maintain high data quality and integrity
