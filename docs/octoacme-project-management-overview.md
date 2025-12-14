@@ -17,8 +17,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Quality Assurance Lead: defines quality standards, coordinates testing, ensures release readiness.
+- Project Sponsor: champions the project, provides strategic direction, removes organizational barriers.
+- Change Manager: guides organizational transitions, ensures user readiness and adoption.
+- Stakeholder Engagement Lead: manages stakeholder relationships, expectations, and communication.
+- Data Steward: ensures data quality, governance, and compliance throughout the project.
+- Other stakeholders: provide inputs and approvals as needed.
 
 ## Key Artifacts
 - Project Charter / One-pager
