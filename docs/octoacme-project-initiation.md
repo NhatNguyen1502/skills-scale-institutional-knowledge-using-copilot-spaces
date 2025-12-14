@@ -31,10 +31,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Project Sponsor identified and engaged for approval
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Stakeholder Engagement Lead assigned to map stakeholders
+- [ ] Initial data requirements identified (engage Data Steward if needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Change impact assessment initiated with Change Manager
 
 ## Decision Gate
 Move to planning when:

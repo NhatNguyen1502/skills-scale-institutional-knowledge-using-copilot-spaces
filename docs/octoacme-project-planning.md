@@ -36,8 +36,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all key roles
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted by Quality Assurance Lead
+- [ ] Data requirements and migration plan reviewed by Data Steward
+- [ ] Change impact assessment completed by Change Manager
+- [ ] Stakeholder engagement plan finalized by Stakeholder Engagement Lead
+- [ ] Project Sponsor approval obtained for plan
